@@ -33,6 +33,11 @@ As the **Clients Module Lead**, I owned end-to-end requirements engineering and 
 * **Non-Functional Specifications:** Defined client-side performance benchmarks (sub-2-second loads), multi-language capability (Arabic/English), and data security standards (TLS 1.3 / AES-256).
 
 ---
-
 ## 📂 Deliverables & Documentation
-* 📄 **Consolidated BRD File:** `BA9-A08-Insurance-BRD-v1-EN by Assaad Lutf.pdf` (Available in repository root)
+
+* 📄 **[Download Client Module BRD (PDF)](./client%20portal%20(2).pdf)**  
+  *(Deep dive into the Client Module: As-Is/To-Be workflows, high-level functional requirements BR-001 to BR-008, and client-side NFRs)*
+
+* 📑 **[Download Consolidated Enterprise BRD (PDF)](./BA9-A08-Insurance-BRD-v1-EN%20by%20Assaad%20Lutf.pdf)**  
+  *(Cross-functional team document covering Clients, Policies, Plans, Accounting, and Technical Architecture)*
+
