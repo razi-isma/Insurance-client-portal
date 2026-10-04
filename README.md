@@ -1,5 +1,38 @@
-# Insurance-client-portal
-I am currently active within a team of business analysts on a project aimed at improving client Data management through a dedicated insurance client portal 
-As the team lead of the **client Module**, I coordinated the design of the centralised mind map unifying all project modules.
-* **Deliverable:** my first draft of client mind map module  
-[View Insurance Portal Mind Map on lucidchart](https://lucid.app/lucidchart/75dfda67-bde7-4560-a42e-439343e341b2/edit?invitationId=inv_313bf171-3f56-4422-b42e-73085d670bd5)
+# Enterprise Insurance Portal – Consolidated Business Requirement Document (BRD)
+
+## 📌 Project Overview
+This repository contains the comprehensive, consolidated **Business Requirement Document (BRD)** for an enterprise Corporate Insurance Portal. The project unifies multiple operational domains—including Client Management, Policy Administration, Plans, Accounting, and Technical Operations—into a centralized, automated digital platform.
+
+* **Document Version:** v1.0 (Consolidated)
+* **Sign-off Date:** October 03, 2026
+* **Methodology:** Hybrid Agile / Business Analysis (BCS Framework)
+* **Domain:** Commercial Insurance / InsurTech
+
+---
+
+## 👥 Cross-Functional Project Team & Governance
+This document represents a collaborative effort across multiple specialized stream leads:
+
+| Module / Stream | Leadership Role | Lead Name |
+| :--- | :--- | :--- |
+| **Project Sponsor & Insurance Lead** | Insurance Team Lead | Slwan Muhamed |
+| **Lead BA & Policies Stream** | Lead Business Analyst | Assaad Lutf |
+| **Clients Module** | Clients Module Lead | Isma Razibaouene |
+| **Technical Architecture & Admin** | Technical Architect | Ahmed Eissa |
+| **Policies Co-Lead** | Co-Lead Analyst | M. Eldakroury |
+| **Plans Stream** | Plans Module Lead & Co-Lead | Asia Al-Jabrine & Jihad Yasser |
+| **Accounting Stream** | Accounting Lead Analyst | Engy Elyamany |
+
+---
+
+## 🎯 My Specific Contribution: Clients Module
+As the **Clients Module Lead**, I owned end-to-end requirements engineering and process modeling for the client-facing portal ecosystem:
+* **As-Is & To-Be Process Design:** Modeled the shift from manual, slow client intake and underwriter proof requests to an automated, self-service digital onboarding journey.
+* **Functional Requirements:** Formulated high-level requirements covering secure authentication, dynamic document vault upload, real-time application tracking, and payment gateways (`BR-001` through `BR-008`).
+* **Financial Transparency Hub:** Engineered requirements for real-time tracking of policy premiums, payments, refunds, and account balances.
+* **Non-Functional Specifications:** Defined client-side performance benchmarks (sub-2-second loads), multi-language capability (Arabic/English), and data security standards (TLS 1.3 / AES-256).
+
+---
+
+## 📂 Deliverables & Documentation
+* 📄 **Consolidated BRD File:** `BA9-A08-Insurance-BRD-v1-EN by Assaad Lutf.pdf` (Available in repository root)
