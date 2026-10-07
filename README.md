@@ -36,9 +36,6 @@ As the **Clients Module Lead**, I owned end-to-end requirements engineering and 
 
 ## 📂 Deliverables & Documentation
 
-* 📄 **[Download Client Module BRD (PDF)](./Client-Module-BRD.pdf)**  
-  *(Comprehensive Business Requirement Document for the Client Module: As-Is/To-Be workflows, BR-001 to BR-008, and NFRs)*
-
 * 🗺️ **[View As-Is / To-Be Process Map (PDF)](./client%20portal%20(2).pdf)**  
   *(Visual process flow diagram detailing onboarding bottlenecks and automated intake states)*
 
